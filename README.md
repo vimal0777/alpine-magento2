@@ -1,4 +1,4 @@
-# Sharath Chandra Sreenidhi - Alpine based Docker Magento
+# Aadyantha Systems - Alpine based Docker Magento
 
                                              Alpine based Docker Magento 
 
