@@ -1,4 +1,4 @@
-# Aadyantha Systems - Alpine based Docker Magento
+# Aadyantha - Alpine based Docker Magento
 
                                              Alpine based Docker Magento 
 
